@@ -18,7 +18,7 @@ order: 2
 :::
 
 ::: right
-[@墨七](https://mo7.cc)。
+[@阿 君、](https://ajun.cc)。
 :::
 
 ::::

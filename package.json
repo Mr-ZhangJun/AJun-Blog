@@ -1,7 +1,7 @@
 {
-  "name": "mo7-blog",
+  "name": "ajun-blog",
   "version": "1.4.4",
-  "description": "墨七的个人博客",
+  "description": "阿君的个人博客",
   "license": "MIT",
   "type": "module",
   "scripts": {

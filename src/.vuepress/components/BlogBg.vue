@@ -13,7 +13,7 @@ const BlogBg = () => {
 
 const RibbonFun = () => {
   if (!document.getElementById('bgCanvas')) {
-    const RibbonClick = import('../script/ribbonClick');
+    const RibbonClick = import('../script/ribbonClick.js');
     RibbonClick.then((res) => {
       res.default();
     });

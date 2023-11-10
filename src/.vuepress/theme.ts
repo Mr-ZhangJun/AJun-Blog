@@ -12,7 +12,7 @@ const footerICP_HTML = `
 export default hopeTheme({
   hostname: 'https://blog.mo7.cc',
   author: {
-    name: '墨七',
+    name: '阿 君、',
     url: 'https://mo7.cc',
     email: 'mo7@mo7.cc',
   },
@@ -57,7 +57,7 @@ export default hopeTheme({
       navbar: zhNavbar,
       sidebar: zhSidebar,
       blog: {
-        name: '墨七',
+        name: '阿 君、',
         description: '简单快乐，理应如此。',
         intro: '/about/me.html',
         timeline: '美好的事情即将发生',
@@ -205,8 +205,8 @@ export default hopeTheme({
         ],
         shortcuts: [
           {
-            name: '墨七',
-            short_name: '墨七',
+            name: '阿 君、',
+            short_name: '阿 君、',
             url: '/',
             icons: [
               {

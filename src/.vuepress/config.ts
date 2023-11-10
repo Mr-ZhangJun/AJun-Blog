@@ -13,8 +13,8 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '墨七',
-      description: '墨七 - 简单快乐，理应如此。',
+      title: '阿 君、',
+      description: '阿 君、 - 简单快乐，理应如此。',
     },
     '/en/': {
       lang: 'en-US',

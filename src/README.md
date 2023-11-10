@@ -5,10 +5,10 @@ icon: home
 title: 首页
 heroImage: /pwa/144.png
 bgImage: //file.mo7.cc/api/public/bz?idx=1
-heroText: 墨七
+heroText: 阿 君、
 heroFullScreen: true
 tagline: 简单快乐，理应如此。
-description: 墨七,博客,记录,分享
+description: 阿 君、,博客,记录,分享
 article: false
 index: false
 projects:
